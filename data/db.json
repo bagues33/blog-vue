@@ -1,0 +1,60 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Artikel Pertama",
+      "body": "Lorem Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "tags": [
+        "web",
+        "vue",
+        "node"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Artikel Kedua",
+      "body": "Lorem Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "tags": [
+        "js",
+        "html",
+        "css"
+      ]
+    },
+    {
+      "id": 3
+    },
+    {
+      "id": 4
+    },
+    {
+      "title": "Artikel Ketiga",
+      "body": "Lorem Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+      "tags": [
+        "vue"
+      ],
+      "id": 5
+    },
+    {
+      "title": "Artikel Keempat",
+      "body": "Lorem Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+      "tags": [
+        "vue"
+      ],
+      "id": 6
+    },
+    {
+      "title": "Artikel Kelima",
+      "body": "Lorem Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+      "tags": [],
+      "id": 7
+    },
+    {
+      "title": "ini pos terbaru",
+      "body": "ini isi dari post terbaru",
+      "tags": [
+        "post"
+      ],
+      "id": 8
+    }
+  ]
+}
